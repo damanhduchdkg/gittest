@@ -1,0 +1,30 @@
+{
+  "name": "ql_kho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damanhduchdkg/gittest.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Anh Đức",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damanhduchdkg/gittest/issues"
+  },
+  "homepage": "https://github.com/damanhduchdkg/gittest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "express-handlebars": "^7.0.7",
+    "node-sass": "^9.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
