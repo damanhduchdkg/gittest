@@ -1,0 +1,38 @@
+@import 'variables';
+
+.btn-nav {
+    background-color: #000000;
+}
+
+.btn-nav:hover {
+    background-color: rgba($color: #000000, $alpha: 0.8);
+}
+
+.navbar-logo {
+    height: 2.4rem;
+}
+
+.header_report {
+    display: flex;
+    // align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.form-input_focus:focus {
+    outline: none;
+}
+
+.form-data_input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.option-input {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
